@@ -21,7 +21,7 @@ int isNT(char c)
 }
 
 // Read grammar productions
-void readGrammar()'
+void readGrammar()
 {
     char left[20], right[MAX_LEN];
 
